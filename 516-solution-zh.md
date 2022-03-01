@@ -22,4 +22,5 @@ n -> n 的 2 進位表示式 -> (n 的 2 進位表示式) 把基數改為 7 轉�
 ## 解法
 
 [yuanyu90221's golang 解法](https://github.com/yuanyu90221/DailyCodingProblem516Go)
+
 [yuanyu90221's kotlin 解法](https://github.com/yuanyu90221/DailyCodingProblem516)
