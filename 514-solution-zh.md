@@ -25,4 +25,5 @@ longestAccum 則為最長連續長度
 ## 解法
 
 [yuanyu90221's golang 解法](https://github.com/yuanyu90221/DailyCodingProblem514Go)
+
 [yuanyu90221's kotlin 解法](https://github.com/yuanyu90221/DailyCodingProblem514)
